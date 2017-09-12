@@ -1,0 +1,33 @@
+.Header {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  margin:auto;
+}
+
+#BrushesHeader {
+  background-color: mediumspringgreen;
+}
+
+#FramesHeader {
+  background-color: lightcoral;
+}
+
+#PaintHeader {
+  background-color: skyblue;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color:khaki;
+  background-image: url("pattern.jpeg");
+}
+
+.ParagraphHighlight {
+  font-family: Helvetica;
+  font-weight: bold;
+  color:blue;
+}
